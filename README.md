@@ -42,7 +42,7 @@ Execuções após esse horário podem retornar dados do dia seguinte.
 
 ### 1. Clone o repositório ou baixe os arquivos 
 
-git clone https: (https://github.com/guilherme-viana-silva/cotacao-BRL-USD.git)  
+git clone https: https://github.com/guilherme-viana-silva/cotacao-BRL-USD.git
 cd etl-cotacoes
 
 ---
